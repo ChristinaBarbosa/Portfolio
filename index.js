@@ -1,0 +1,1 @@
+function expandText(el) { if (el.getAttribute('data-more') == 0) { el.setAttribute('data-more', 1); el.innerHTML = 'Read Less'; el.previousSibling.style.display = 'inline'; } else if (el.getAttribute('data-more') == 1) { el.setAttribute('data-more', 0); el.innerHTML = 'Read More'; el.previousSibling.style.display = 'none'; } }
