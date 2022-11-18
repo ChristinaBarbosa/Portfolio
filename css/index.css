@@ -67,7 +67,7 @@ a {
 
 /*Text Colors*/
 .primary {
-    color: #d20f60;
+    color: #fd7e14;
 }
 
 .secondary {
@@ -112,7 +112,7 @@ a {
 
 /*Background Colors*/
 .bkg-primary {
-    background-color: #d20f60;
+    background-color: #fd7e14;
 }
 
 .bkg-primary-light {
@@ -173,14 +173,14 @@ a {
 
 /*Border*/
 .border-bottom-primary {
-    border-bottom: 20px solid #d20f60;
+    border-bottom: 20px solid #fd7e14;
 }
 
 /*Solid Buttons*/
 
 .btn-primary {
-    background-color: #d20f60;
-    border: 1px solid #d20f60;
+    background-color: #fd7e14;
+    border: 1px solid #fd7e14;
     border-radius: 3px;
     color: #ffffff;
     text-decoration: none;
@@ -192,8 +192,8 @@ a {
     outline: none;
 }
 .btn-primary:visited {
-    background-color: #d20f60;
-        border: 1px solid #d20f60;
+    background-color: #fd7e14;
+        border: 1px solid #fd7e14;
         border-radius: 3px;
         color: #ffffff;
         text-decoration: underline;
@@ -201,8 +201,8 @@ a {
         margin: 18px 0;
 }
 .btn-primary:focus-visible {
-    background-color: #d20f60;
-    border: 1px solid #d20f60;
+    background-color: #fd7e14;
+    border: 1px solid #fd7e14;
     border-radius: 3px;
     color: #ffffff;
     text-decoration: underline;
@@ -210,8 +210,8 @@ a {
     margin: 18px 0;
 }
 .btn-primary:focus{
-    background-color: #d20f60;
-    border: 1px solid #d20f60;
+    background-color: #fd7e14;
+    border: 1px solid #fd7e14;
     border-radius: 3px;
     color: #ffffff;
     text-decoration: underline;
@@ -219,8 +219,8 @@ a {
     margin: 18px 0;
 }
 .btn-primary:focus-within {
-    background-color: #d20f60;
-    border: 1px solid #d20f60;
+    background-color: #fd7e14;
+    border: 1px solid #fd7e14;
     border-radius: 3px;
     color: #ffffff;
     text-decoration: underline;
@@ -230,9 +230,9 @@ a {
 
 .btn-primary:hover {
     background-color: #ffffff;
-    border: 2px solid #d20f60;
+    border: 2px solid #fd7e14;
     border-radius: 3px;
-    color: #d20f60;
+    color: #fd7e14;
     font-weight: 600;
     text-decoration: none;
     padding: 10px 20px;
@@ -283,9 +283,9 @@ a {
 /*Outlined Buttons*/
 .btn-primary-outline {
     background-color: #ffffff;
-    border: 2px solid #d20f60;
+    border: 2px solid #fd7e14;
     border-radius: 3px;
-    color: #d20f60;
+    color: #fd7e14;
     font-weight: 600;
     text-decoration: none;
     padding: 10px 20px;
@@ -293,7 +293,7 @@ a {
 }
 
 .btn-primary-outline:hover {
-    background-color: #d20f60;
+    background-color: #fd7e14;
     border-radius: 3px;
     color: #ffffff;
     text-decoration: none;
