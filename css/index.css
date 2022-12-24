@@ -81,6 +81,14 @@ body {
   margin:0 .25rem;
 }
 
+/* prevent navbar shift */
+.navbar {        
+    margin-right: auto;    
+    margin-left: auto;    
+    max-width: 100%;    
+    min-width: 1000px;
+}
+
 /* makes the dropdown full width  */
 .navbar .dropdown {position:static;}
 
