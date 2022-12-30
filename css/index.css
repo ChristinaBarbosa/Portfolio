@@ -1,16 +1,15 @@
-html {
-    scroll-behavior: smooth;
-}
-
-body {
-    font-family: 'Lato', sans-serif;
+/* Styling for double navbar */
+	html,body,header{
+	height: 12vh;
+	font-family: 'Lato', sans-serif;
     color: #3c3c3c;
     font-weight: 400;
-}
+	scroll-behavior: smooth;
+	}
 
 @media (max-width: 991px) {
-    .container {
-        max-width: 98%;
+     .container {
+      max-width: 98%;
     }
 }
 
@@ -38,7 +37,7 @@ body {
 }
 
 @media screen  and (max-width:767px){
-	.navbar-dark{
+	.navbar-light{
 		background-color: white !important;
 	}
 }
@@ -67,7 +66,7 @@ body {
 }
 
 /* breakpoint and up - mega dropdown styles */
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 1000px) {
   
   /* remove the padding from the navbar so the dropdown hover state is not broken */
 .navbar {
