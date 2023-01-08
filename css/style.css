@@ -1,5 +1,6 @@
 /* Styling for double navbar */
 	html,body,header{
+	height: 12vh;	
 	font-family: 'Lato', sans-serif;
     color: #3c3c3c;
     font-weight: 400;
@@ -119,6 +120,13 @@
   }
 
 }
+
+/*Video*/
+.video-fluid {
+  width: 100%;
+  height: auto;
+}
+
 
 /*Typography*/
 h1 {
