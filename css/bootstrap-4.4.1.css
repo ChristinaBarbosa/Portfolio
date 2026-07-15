@@ -2007,7 +2007,7 @@ pre code {
   }
 }
 
-@media (max-width : 1413px ){
+@media (max-width : 1410px ){
   .table-responsive-xl {
     display: block;
     width: 100%;
@@ -4542,7 +4542,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (max-width : 1413px ){
+@media (max-width : 1410px ){
   .navbar-expand-xl > .container,
   .navbar-expand-xl > .container-fluid, .navbar-expand-xl > .container-sm, .navbar-expand-xl > .container-md, .navbar-expand-xl > .container-lg, .navbar-expand-xl > .container-xl {
     padding-right: 0;
@@ -10228,5 +10228,5 @@ a.text-dark:hover, a.text-dark:focus {
 }
 .py-16 {
 }
-.mr-16 {
+.bkg-grey {
 }
